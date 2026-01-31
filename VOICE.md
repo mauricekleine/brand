@@ -108,6 +108,7 @@ Show experimentation and exploration.
 - Long paragraphs
 - Formal grammar policing
 - Overly complex constructions
+- Emdashes (use commas, periods, or line breaks instead)
 
 ---
 
