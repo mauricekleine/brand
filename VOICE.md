@@ -1,4 +1,4 @@
-# Mockly Brand Voice Guide
+# Maurice's Brand Voice Guide
 
 ## Core Voice Statement
 
@@ -42,8 +42,8 @@ Let results and concrete actions speak.
 - Buzzwords
 - Future-heavy language
 
-✅ Good: Mockly just crossed $750 MRR
-❌ Bad: Mockly is positioned for exponential growth
+✅ Good: just crossed $750 MRR
+❌ Bad: positioned for exponential growth
 
 ---
 
@@ -186,7 +186,7 @@ Goal: professional credibility without corporate tone
 - No fluff
 
 ✅ Good: Create realistic chat mockups in seconds.
-❌ Not: Empowering creators through next-gen visualization tools
+❌ Bad: Empowering creators through next-gen visualization tools
 
 ---
 
